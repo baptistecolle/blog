@@ -1,8 +1,0 @@
-{
-    "origins": [
-      "https://baptistecolle.com"
-    ],
-    "originsRegex": [
-      "http://localhost:[0-9]+"
-    ]
-  }
